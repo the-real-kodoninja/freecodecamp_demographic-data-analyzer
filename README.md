@@ -1,6 +1,6 @@
 # freecodecamp_demographic-data-analyzer
 
-![image of completion][)
+![image of completion](https://github.com/the-real-kodoninja/freecodecamp_demographic-data-analyzer/blob/main/captureit_3-12-2025_at_09-22-59.png)
 
 gitpod /workspace/boilerplate-demographic-data-analyzer (main) $ python main.py
 Number of each race:
